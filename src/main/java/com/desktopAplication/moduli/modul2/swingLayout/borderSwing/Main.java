@@ -12,6 +12,8 @@ public class Main extends JFrame {
         frame.setSize(600, 400);
         frame.setLocationRelativeTo(null);
         frame.setDefaultCloseOperation(EXIT_ON_CLOSE);
+        frame.setVisible(true);
+
         //za frame je podrazumevan border layout
         //raspodela na identican nacin kao u awt
         frame.setLayout(new BorderLayout());
