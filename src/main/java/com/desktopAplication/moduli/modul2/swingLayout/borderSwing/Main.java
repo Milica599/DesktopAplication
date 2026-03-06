@@ -1,4 +1,4 @@
-package com.desktopAplication.moduli.modul2.swingLayout;
+package com.desktopAplication.moduli.modul2.swingLayout.borderSwing;
 import javax.swing.*;
 import java.awt.*;
 public class Main extends JFrame {
