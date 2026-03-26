@@ -27,7 +27,7 @@ public class MainForm extends JFrame {
         JPanel p1 = new JPanel();
         p1.setBackground(Color.gray);
         JPanel p2 = new JPanel();
-        p2.setBackground(Color.green);
+        p2.setBackground(Color.pink);
         //podesavanje velicine panela
         p1.setPreferredSize(new Dimension(200, 200));
         p2.setPreferredSize(new Dimension(200, 200));
