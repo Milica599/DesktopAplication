@@ -1,4 +1,4 @@
-package com.desktopAplication.moduli.modul2.kontejneri.jscroll;
+
 
 import javax.swing.*;
 import java.awt.*;
